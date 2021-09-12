@@ -1,2 +1,2 @@
-# projetoToLive
-Projeto para exercícios físicos
+# ProjetoToLive
+App para exercícios físicos
